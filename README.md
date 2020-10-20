@@ -1,7 +1,7 @@
 # GNOME Third Party App Icons
 For those who create web application launchers via the Epiphany or Chromium browsers functionality. Their icons usually look pretty bad and do not follow with the official GNOME standards. In order for these application icons to look consistent on the Dock I have redesigned some of them. 
 
-Feel free to collaborate or ask me make an icon you need.
+Designed in Figma. Feel free to collaborate or ask me make an icon you need.
 
 <figure>
   <img src="https://github.com/petrstepanov/gnome-third-party-icons/blob/main/resources/preview.png?raw=true" alt="Gnome Application Icons" />
