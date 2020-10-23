@@ -8,9 +8,9 @@
 <path d="M64 64L24 104L64 124L104 104L64 64Z" fill="white"/>
 <defs>
 <linearGradient id="paint0_linear" x1="122" y1="109.5" x2="5.99999" y2="108.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#E6E6E6"/>
+<stop offset="0.223543" stop-color="#E6E6E6"/>
 <stop offset="0.498351" stop-color="white"/>
-<stop offset="1" stop-color="#E6E6E6"/>
+<stop offset="0.801702" stop-color="#E6E6E6"/>
 </linearGradient>
 </defs>
 </svg>
