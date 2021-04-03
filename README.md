@@ -10,5 +10,12 @@ Icons are designed in Figma. You are welcome to collaborate and suggest improvem
 
 
 ## How to install
-1. Checkout the repository and run `install.sh` in the Terminal.
-2. Manually update the `.desktop` launchers in your `~/.local/share/applications/` to reflect the new icon.
+1. Checkout the repository and run `install.sh` in the Terminal:
+```
+cd ~/Downloads
+git clone https://github.com/petrstepanov/gnome-third-party-icons && cd gnome-third-party-icons
+chmod +x ./install.sh
+sh install.sh
+```
+
+2. Manually assign new icons to the deskop launchers in `~/.local/share/applications/` folder to reflect the new icon. Alternatively [use MenuLibre app](https://bluesabre.org/menulibre/) to update applications' icons.
