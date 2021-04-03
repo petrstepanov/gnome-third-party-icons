@@ -4,7 +4,7 @@ Some application icons that are designed with respect to the GNOME icon standard
 Icons are designed in Figma. You are welcome to collaborate and suggest improvements!
 
 <figure>
-  <img src="https://github.com/petrstepanov/gnome-third-party-icons/blob/main/resources/preview.png?raw=true&timestamp=123" alt="Gnome Application Icons" />
+  <img src="https://raw.githubusercontent.com/petrstepanov/gnome-third-party-icons/main/resources/preview.png" alt="Gnome Application Icons" />
   <figcaption>Some SVG app icons that follow GNOME standards: PayPal, Snipcart, WhatsApp, Messenger, Figma, Soundcloud, Mega Cloud, Firefox, ShareDrop, Simplenote, Libre Office Writer, Impress and Calc, Eclipse</figcaption>
 </figure>
 
