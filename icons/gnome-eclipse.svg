@@ -1,4 +1,5 @@
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64 8.6103C37.9703 12.619 18 35.891 18 64C18 92.109 37.9703 115.381 64 119.39C61.3896 119.792 58.7183 120 56 120C26.1766 120 2 94.9279 2 64C2 33.0721 26.1766 8 56 8C58.7183 8 61.3896 8.20828 64 8.6103Z" fill="#FFA348"/>
 <circle cx="72" cy="66" r="54" fill="url(#paint0_linear)"/>
 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="18" y="8" width="108" height="108">
 <circle cx="72" cy="62" r="54" fill="white"/>
@@ -16,7 +17,6 @@
 <rect x="18" y="73" width="108" height="6" fill="white"/>
 </g>
 </g>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M53.8843 119.958C31.2849 112.122 15 90.0297 15 64C15 37.9703 31.2849 15.8776 53.8843 8.04221C25.0415 9.1946 2 33.8068 2 64C2 94.1932 25.0415 118.805 53.8843 119.958Z" fill="#F7941E"/>
 <defs>
 <filter id="filter0_d" x="18" y="59" width="108" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
@@ -43,9 +43,9 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
 <linearGradient id="paint0_linear" x1="18" y1="63" x2="126" y2="63" gradientUnits="userSpaceOnUse">
-<stop stop-color="#140F26"/>
+<stop offset="0.223958" stop-color="#140F26"/>
 <stop offset="0.494792" stop-color="#5A499F"/>
-<stop offset="1" stop-color="#140F26"/>
+<stop offset="0.770833" stop-color="#140F26"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="72" y1="27" x2="72" y2="97" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2C2255"/>
