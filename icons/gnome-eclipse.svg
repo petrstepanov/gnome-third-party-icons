@@ -44,8 +44,8 @@
 </filter>
 <linearGradient id="paint0_linear" x1="5" y1="110.5" x2="124" y2="110.5" gradientUnits="userSpaceOnUse">
 <stop offset="0.215204" stop-color="#D97908"/>
-<stop offset="0.498619" stop-color="#FAB666"/>
-<stop offset="0.500158" stop-color="#6E5BBD"/>
+<stop offset="0.401042" stop-color="#FAB666"/>
+<stop offset="0.572917" stop-color="#6E5BBD"/>
 <stop offset="0.778899" stop-color="#19132F"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="70" y1="27" x2="70" y2="97" gradientUnits="userSpaceOnUse">
