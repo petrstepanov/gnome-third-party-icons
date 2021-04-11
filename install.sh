@@ -14,3 +14,5 @@ do
   # Install icon. Weird but svg icons still not supported https://gitlab.freedesktop.org/xdg/xdg-utils/-/issues/82
   cp $i ~/.local/share/icons/hicolor/scalable/apps/
 done
+
+gtk-update-icon-cache
